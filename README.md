@@ -17,5 +17,16 @@ pip install -r requirements.txt
 ```Python
 python.exe app.py
 ```
-## Use the program and enter the link
+## Output after entering the link
+
+```Python
+{
+    "q_number": "806",
+    "title": "Domino and Tromino Tiling",
+    "difficulty": "Medium", 
+    "tags": ["Dynamic Programming"]
+
+}
+```
+
 
