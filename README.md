@@ -5,6 +5,9 @@ Leetcode API to fetch data about the problem
 ```git
 git clone https://github.com/Manraj-Mann/leetcode-api.git
 ```
+```git
+cd leetcode-api
+```
 
 ## Installation 
 
